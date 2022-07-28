@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-pkg upgrade -y
+pkg upgrade -yes
 pkg update -y
 pkg install nodejs -y
 pkg clean
