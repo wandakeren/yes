@@ -38,7 +38,7 @@ const defaultMenu = {
   before: `
 ╔════════════════╗
 ╠➤👤𝙊𝙬𝙣𝙚𝙧 : ${global.ownername}
-╠➤💻𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : 𝙂𝙚𝙢𝙥𝙮
+╠➤💻𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : 𝐖𝐚𝐧𝐝𝐚 𝐂𝐚𝐤𝐞𝐩
 ╠➤⏰𝙐𝙥𝙩𝙞𝙢𝙚 : %uptime
 ╠➤🗓️𝙏𝙖𝙣𝙜𝙜𝙖𝙡: %date
 ╚═══════╦════════╝
@@ -176,7 +176,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Website',
-                                    url: 'https://arivpns.github.io/'
+                                    url: 'https://instagram.com/wnd.prfct'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -186,7 +186,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Sewa',
-                                    id: '/sewa'
+                                    id: 'wa.me/628975217200'
                                 }  
                             }, {
                                 quickReplyButton: {
