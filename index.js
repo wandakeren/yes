@@ -1,4 +1,4 @@
-//console.log('Starting to run GEMPY...') //CREATOR - DEVBOT,ARIETUBE,GEMPYTON
+//console.log('Starting to run SANS BOT...') //CREATOR - DEVBOT,ARIETUBE,GEMPYTON
 const moment = require("moment-timezone")
 const time = moment.tz('Asia/Jakarta').format("HH:mm:ss")
 let cluster = require('cluster')
@@ -234,7 +234,7 @@ console.log(color(tampilTanggal, "pink"));
 console.log(color(tampilWaktu, "pink"));
 console.log(color(tampilHari, "pink"));
 
-CFonts.say('CREATED\nBY GEMPY TON', {
+CFonts.say('CREATED\nBye WANDA GANS', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
